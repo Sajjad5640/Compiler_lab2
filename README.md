@@ -4,10 +4,10 @@ Group Member’s Skill
 Md.Sajjad Mojumder Anik 221-15-5640
 1. Front-End Development (React, HTML, CSS, Tailwind CSS,JavaScript Beginner Level)
 2. Experience in  Research (Machine Learning)
-3.UI/UX  Design (Figma)
-4.Adobe Photoshop
-5.Adobe Illustrator
-6.Video Editing (Filmora,Power Director)
+3. UI/UX  Design (Figma)
+4. Adobe Photoshop
+5. Adobe Illustrator
+6. Video Editing (Filmora,Power Director)
 
 
 Sabiba Israt Zerin 221-15-5887
