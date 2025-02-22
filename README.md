@@ -28,12 +28,14 @@ Md Hasanur Miah(221-15-4991)
 5. Word,Exel,Powerpoint.
 
 
-Md. Foysal Sheikh(221-15-4865)
+Raisul Kabir Khan Likhon(221-15-4915)
 
 1. Front-End Development ( HTML, CSS )
-2. Experience in  Research (Machine Learning)
+2. Experience in  Research (Machine Learning,Deep Learning Basic)
 3. Video Editing (Final Cut Pro)
-4.Adobe Photoshop
-5. Word,Exel,Powerpoint.
+4. Adobe Photoshop
+5. Word,Exel, Powerpoint.
 6. Research in the field of ML.
+7. Flutter
+8. UI/UX Design (Figma)
 
