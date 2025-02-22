@@ -8,6 +8,7 @@ Md.Sajjad Mojumder Anik 221-15-5640
 4. Adobe Photoshop
 5. Adobe Illustrator
 6. Video Editing (Filmora,Power Director)
+7. Flutter (Learning Phase)
 
 
 Sabiba Israt Zerin 221-15-5887
@@ -31,11 +32,9 @@ Md Hasanur Miah(221-15-4991)
 Raisul Kabir Khan Likhon(221-15-4915)
 
 1. Front-End Development ( HTML, CSS )
-2. Experience in  Research (Machine Learning,Deep Learning Basic)
-3. Video Editing (Final Cut Pro)
-4. Adobe Photoshop
-5. Word,Exel, Powerpoint.
-6. Research in the field of ML.
-7. Flutter
-8. UI/UX Design (Figma)
+2. Adobe Photoshop
+3. Word,Exel, Powerpoint.
+4. Research in the field of ML.
+5. Flutter
+6. UI/UX Design (Figma)
 
