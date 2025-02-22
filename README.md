@@ -12,7 +12,7 @@ Md.Sajjad Mojumder Anik 221-15-5640
 
 Sabiba Israt Zerin 221-15-5887
 
-1.Front End development(React, Html,CSS, Tailwind CSS)
+1. Front End development(React, Html,CSS, Tailwind CSS)
 2. Research
 3. Powerpoint
 4. Figma(UI/UX Design)
