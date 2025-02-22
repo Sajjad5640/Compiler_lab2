@@ -15,14 +15,14 @@ Sabiba Israt Zerin 221-15-5887
 1.Front End development(React, Html,CSS, Tailwind CSS)
 2. Research
 3. Powerpoint
-4.Figma(UI/UX Design)
+4. Figma(UI/UX Design)
 5. Excel
 
 
 Md Hasanur Miah(221-15-4991)
 
-1.Video Editing (Photography,Videography)
-2.Volunteering
+1. Video Editing (Photography,Videography)
+2. Volunteering
 3. HTML, CSS(Basic)
 4. UI/UX.
 5. Word,Exel,Powerpoint.
